@@ -1,0 +1,8 @@
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\obj\Debug\OopBasedDataCorrectness.csproj.AssemblyReference.cache
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\obj\Debug\OopBasedDataCorrectness.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\obj\Debug\OopBasedDataCorrectness.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\bin\Debug\OopBasedDataCorrectness.exe.config
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\bin\Debug\OopBasedDataCorrectness.exe
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\bin\Debug\OopBasedDataCorrectness.pdb
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\obj\Debug\OopBasedDataCorrectness.exe
+D:\simplilearn\day-19\OopBasedDataCorrectness\OopBasedDataCorrectness\obj\Debug\OopBasedDataCorrectness.pdb
